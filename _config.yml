@@ -36,4 +36,4 @@ config:
   img_dir:
   css_dir:
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
